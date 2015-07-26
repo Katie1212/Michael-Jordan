@@ -1,3 +1,5 @@
 # Michael-Jordan
 Using Parralax Website using Stellar
-[Visit link](https://aisites.com:2222/CMD_FILE_MANAGER/domains/katherinejs.aisites.com/public_html/Interactive-Community-Planning/wk1/index.html)
+[Visit link](http://katherinejs.aisites.com/Interactive-Community-Planning/wk1/index.html)
+
+(https://farm1.staticflickr.com/553/19393525574_095252781c_c.jpg)
